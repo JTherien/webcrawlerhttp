@@ -19,5 +19,8 @@
   "homepage": "https://github.com/JTherien/webcrawlerhttp#readme",
   "devDependencies": {
     "jest": "^29.6.0"
+  },
+  "dependencies": {
+    "jsdom": "^22.1.0"
   }
 }
